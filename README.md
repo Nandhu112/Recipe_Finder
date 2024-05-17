@@ -1,8 +1,45 @@
-# React + Vite
+# Recipe Finder (React JS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![App Screenshot](https://res.cloudinary.com/dvu6xxiqx/image/upload/v1715962702/Screenshot_124_lgrc5m.png)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+
+## Description
+
+Input your ingredients to discover personalized recipes instantly.
+
+## Features
+
+- Get recipes based on search inputs.
+
+
+## Installation
+
+1. Clone the repository:
+   git clone https: https://github.com/Nandhu112/Recipe_Finder.git
+
+2.Install dependencies :
+    npm install
+    
+6.Run the development server:
+  npm run dev
+
+## Usage
+  
+Visit http://localhost:5000 in your browser.
+
+search recipes.
+
+Explore the available features.
+
+## Contact
+Nandhu Raj - nandhuraj112@gmai.com
+
+Project Link: https://github.com/Nandhu112/Recipe_Finder.git
+
