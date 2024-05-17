@@ -1,6 +1,6 @@
 # Recipe Finder (React JS)
 
-![App Screenshot](https://res.cloudinary.com/dvu6xxiqx/image/upload/v1715962702/Screenshot_124_lgrc5m.png)
+![App Screenshot](https://res.cloudinary.com/dvu6xxiqx/image/upload/v1715964212/Screenshot_124_jb9l9x.png)
 
 
 ## Table of Contents
